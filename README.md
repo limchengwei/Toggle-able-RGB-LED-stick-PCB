@@ -33,4 +33,3 @@ Solder Paste, Rework
 Please visit https://www.hackster.io/limchengwei/toggle-able-rgb-led-stick-pcb-89a68b for more information about the project.
 
 Thank you JLCPCB again for the sponsorship and please order your PCB at jlcpcb.com/RAT
-
