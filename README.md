@@ -16,6 +16,8 @@ We can solder a USB C female board to the VCC and GND copper pad for the supply 
 
 Things we need:
 
+JLCPCB Customized PCB * 1
+
 5050 RGB LED 6 pins * 16
 
 DIP 3 pins SMD * 1
