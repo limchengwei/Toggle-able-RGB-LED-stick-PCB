@@ -22,9 +22,9 @@ JLCPCB Customized PCB * 1
 
 DIP 3 pins SMD * 1
 
-1210 Resistor 100 ohm * 2
+1210 Resistor 6.2 ohm * 2
 
-1210 Resistor 150 ohm * 1
+1210 Resistor 9.1 ohm * 1
 	
 USB C Female board * 1
 
