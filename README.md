@@ -8,9 +8,9 @@ We choose the resistors based on the current, I = (V supply - V forward) / R.
 
 The current is 0.02A and the supply voltage is 5V.
 
-R = (5 - 2) / 0.02 = 150 ohm for the Red LED.
+R = (5 - 2) / (0.02 * 16) = 9.375 = 9.1 ohm for the Red LED.
 
-R = (5 - 3) / 0.02 = 100 ohm for the Green and Blue LED each.
+R = (5 - 3) / (0.02 * 16) = 6.25 = 6.2 ohm for the Green and Blue LED each.
 
 We can solder a USB C female board to the VCC and GND copper pad for the supply voltage.
 
