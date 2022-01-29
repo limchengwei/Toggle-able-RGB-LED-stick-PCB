@@ -6,11 +6,11 @@ This toggle-able RGB stick can produce 7 different colours - Red, Green, Blue, Y
 
 We choose the resistors based on the current, I = (V supply - V forward) / R.
 
-The current is 0.02A and the supply voltage is 5V.
+The supply voltage is 5V.
 
-R = (5 - 2) / (0.02 * 16) = 9.375 = 9.1 ohm for the Red LED.
+R = 150 ohm for the Red LED.
 
-R = (5 - 3) / (0.02 * 16) = 6.25 = 6.2 ohm for the Green and Blue LED each.
+R = 100 ohm for the Green and Blue LED each.
 
 We can solder a USB C female board to the VCC and GND copper pad for the supply voltage.
 
@@ -33,5 +33,7 @@ Hot Air Station, Industrial * 1
 Solder Paste, Rework
 
 Please visit https://www.hackster.io/limchengwei/toggle-able-rgb-led-stick-pcb-89a68b for more information about the project.
+
+Please visit https://youtu.be/VmrLLmxG-xY for the working video.
 
 Thank you [JLCPCB](https://jlcpcb.com/RAT) again for the sponsorship and please order your PCB at [https://jlcpcb.com/RAT](https://jlcpcb.com/RAT)
